@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1460059022 source:e:\ultimcal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcion.h"
+
+1460058544 source:e:\ultimcal\funcion.c
+
+1460058544 e:\ultimcal\funcion.h
+
