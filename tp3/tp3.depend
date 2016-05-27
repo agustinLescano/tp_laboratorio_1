@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1463837889 source:c:\users\hp\desktop\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1463812395 c:\users\hp\desktop\tp3\utn.h
+
+1463837899 source:c:\users\hp\desktop\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1464207548 source:f:\tp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1463842420 f:\tp3\utn.h
+
+1464208386 source:f:\tp3\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
